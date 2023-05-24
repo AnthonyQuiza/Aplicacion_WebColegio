@@ -1,0 +1,9 @@
+Interfaces\MVC_Inter1.class
+Interfaces\MVC_Inter.class
+Controlador\ServletDocente.class
+Entidad\Alumno.class
+Modelo\ModeloAlumno.class
+Entidad\Docente.class
+Util\Conexion.class
+Controlador\ServletAlumno.class
+Modelo\ModeloDocente.class
